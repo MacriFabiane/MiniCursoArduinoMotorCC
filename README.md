@@ -1,35 +1,33 @@
 # Mini Curso de Arduino: Motor CC com Ponte H
 
 ## Objetivos:
-_O Mini Curso tem como principal objetivo controlar um Motor de corrente continua utilizando os microcontroladores: Arduino e Ponte H. Possibilitando que os alunos tenham conhecimento em alguns componentes eletrônicos que seram usados durante o Mini Curso, fornecendo uma base na aprendizagem de Hardware. Além disso, desenvolver práticas de implementação com a linguagem de programação C++. O projeto foi desenvolvido a partir da Iniciação Cientifica e de Exteção a Robótica Movel, que visa construir robos autônomos como material de ensino, para que sejam utilizados pela Univercidade em diciplinas nessa área de desenvolvimento.
-Essa I.E. está sendo coordenada pelos professores:_
+_Este Mini Curso tem como principal objetivo o aprendizado do controle de um motor de corrente contínua utilizando microcontrolador Arduino UNO e uma Ponte H. Possibilitando aos alunos conhecimento em alguns componentes eletrônicos usados durante o mini curso, fornecendo uma base no conhecimneto de Hardware. Além disso, é buscado que aluno desenvolva  um pouco da prática de implementação em C++. Este projeto foi desenvolvido a partir do Projeto de Extesão de Robótica Movel, que visa construir robôs autônomos, como material parte de material didático, para que sejam utilizados pela Universidade em diciplinas nessa área de desenvolvimento assim como em apresentações e cursos voltados ao público do Ensino Médio.
+Esta Extensão está sendo coordenada pelos professores:_
 
 __Kathya Linares & Jorge Ortiz__.
+
+## Componentes Eletrônicos:
+
+Componente | Nome do Componente | Descrição
+:---------:|:------------------:|:---------:
+<img src="https://th.bing.com/th/id/OIP.gW4eBp_itmkzCHXLsRJ5bwHaHa?rs=1&pid=ImgDetMain" alt="Descrição da Imagem" width="150"/> | Ponte H | A ponte H é um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
+
+
 ## Passo a Passo:
+
 <html>
-   <a href="https://github.com/MacriFabiane/MiniCursoArduinoMotorCC/blob/main/c%C3%B3digos/codigo_VelocidadeMotor.ino" </a>
+   <a href="https://github.com/MacriFabiane/MiniCursoArduinoMotorCC/blob/main/c%C3%B3digos/codigo_VelocidadeMotor.ino" >Acesse este link para o código de velocidade do Motor</a>
 </html>
- Acesse este link para o código de velocidade do Motor
+ 
 
 ## Ministrantes do curso
-_Acesso ao Github:_
-<html>
-  <div>
-    <a href="https://github.com/daysebraga" </a>  
-    Dayse Monteiro Braga
-  </div>
-  <div>
-    <a href="https://github.com/LuizGiovanetti" </a>
-      Luiz Eduardo Albano Giovanetti
-  </div>
-  <div>
-    <a href="https://github.com/MacriFabiane" </a>
-      Maria Cristina Fabiane
-  </div>
-  <div>
-    <a href="https://github.com/eoqueila" </a>
-      Keila Cristina Dario
-  </div>   
-</html>
+
+Ministrante | Nome | Acesso ao  perfil do GitHub
+:---------:|:------------------:|:---------:
+<img src="https://avatars.githubusercontent.com/u/116815697?v=4" alt="Dayse" width="150"/> | Dayse Monteiro Braga | <a href="https://github.com/daysebraga" >daysebraga</a>
+<img src="https://avatars.githubusercontent.com/u/102324931?v=4" alt="Macri" width="150"/> | Maria Cristina Fabiane | <a href="https://github.com/MacriFabiane" >MacriFabiane</a>
+<img src="https://avatars.githubusercontent.com/u/67847441?v=4" alt="Luiz" width="150"/> | Luiz Eduardo Albano Giovanetti | <a href="https://github.com/daysebraga" >LuizGiovanetti</a>
+<img src="https://avatars.githubusercontent.com/u/105608713?v=4" alt="Keila" width="150"/> | Keila Cristina Dário | <a href="https://github.com/eoqueila" >eoqueila</a>
+
 
 
