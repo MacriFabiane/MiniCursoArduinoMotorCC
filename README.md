@@ -16,7 +16,7 @@ Componente | Nome do Componente | Descrição
 ## Passo a Passo:
 
 <html>
-   <a href="https://www.arduino.cc/en/software">Faça o Download da IDE do Arduino Aqui</a>
+   <a href="https://www.arduino.cc/en/software">Faça o Download da IDE do Arduino Aqui</a> <\br>
    <a href="https://github.com/MacriFabiane/MiniCursoArduinoMotorCC/blob/main/c%C3%B3digos/codigo_VelocidadeMotor.ino" >Acesse este link para o código de velocidade do Motor</a>
             
 </html>
