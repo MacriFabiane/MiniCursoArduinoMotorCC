@@ -1,7 +1,7 @@
 # Mini Curso de Arduino: Motor CC com Ponte H
 
 ## Objetivos:
-_Este Mini Curso tem como principal objetivo o aprendizado do controle de um motor de corrente contínua utilizando microcontrolador Arduino UNO e uma Ponte H. Possibilitando aos alunos conhecimento em alguns componentes eletrônicos usados durante o mini curso, fornecendo uma base no conhecimneto de Hardware. Além disso, é buscado que aluno desenvolva  um pouco da prática de implementação em C++. Este projeto foi desenvolvido a partir do Projeto de Extesão de Robótica Movel, que visa construir robôs autônomos, como material parte de material didático, para que sejam utilizados pela Universidade em diciplinas nessa área de desenvolvimento assim como em apresentações e cursos voltados ao público do Ensino Médio.
+_Este Mini Curso tem como principal objetivo o aprendizado do controle de um motor de corrente contínua utilizando microcontrolador Arduino UNO e uma Ponte H. Possibilitando aos alunos, conhecimento em alguns componentes eletrônicos usados durante o mini curso, fornecendo uma base no conhecimneto de Hardware. Além disso, é buscado que o aluno desenvolva  um pouco da prática de implementação em C++. Este projeto foi desenvolvido a partir do Projeto de Extesão de Robótica Movel, que visa construir robôs autônomos, como material de ensino, para que sejam utilizados pela Universidade em diciplinas nessa área de desenvolvimento, assim como em apresentações e cursos voltados ao público do Ensino Médio.
 Esta Extensão está sendo coordenada pelos professores:_
 
 __Kathya Silva Collazos Linares & Jorge Luis Roel Ortiz__.
