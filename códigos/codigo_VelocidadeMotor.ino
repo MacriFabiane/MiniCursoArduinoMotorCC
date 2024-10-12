@@ -17,8 +17,15 @@ void setup() {
 
 void loop() {
   // Verifica se há dados disponíveis na porta serial
+  
   if (Serial.available()) {
+   
     int speed = Serial.parseInt(); // Lê o valor da velocidade enviado
+
+    if(speed!=0){
+      Serial.print(speed);
+    }
+    Serial.print("\n");
 
     if (speed >= -255 && speed <= 255) {
       // Controla a direção e a velocidade do motor
@@ -39,5 +46,7 @@ void loop() {
         analogWrite(enablePin, 0);
       }
     }
+   Serial.println("Digite uma velocidade entre -255 e 255:");
   }
+  delay(100);  // Adiciona um pequeno atraso para dar tempo de processar os dados
 }
