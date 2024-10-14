@@ -12,6 +12,12 @@ Componente | Nome do Componente | Descrição
 :---------:|:------------------:|:---------:
 <img src="https://th.bing.com/th/id/OIP.gW4eBp_itmkzCHXLsRJ5bwHaHa?rs=1&pid=ImgDetMain" alt="Descrição da Imagem" width="150"/> | Ponte H | A ponte H é um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
 
+### Observação
+Esta tabela mostra as combinações de valores aceitos pelo digitalWrite do Arduino e as direções que elas configuram:
+
+<img src="https://github.com/user-attachments/assets/2d59c26d-34cd-43a9-8855-6fc8b5f6bbec" alt="tabela digitalWrite" width="250"/>
+
+
 
 ## Passo a Passo:
 
