@@ -10,8 +10,12 @@ __Kathya Silva Collazos Linares & Jorge Luis Roel Ortiz__.
 
 Componente | Nome do Componente | Descrição
 :---------:|:------------------:|:---------:
+<img src="https://acdn.mitiendanube.com/stores/001/159/336/products/0001-arduino_uno1-320243ab820a3af3cc15872244772880-640-0.png" alt="Descrição da Imagem" width="150"/> | Arduino UNO | O Arduino Uno é uma placa microcontroladora, que possuem funcionamento semelhante ao de um pequeno computador capaz de interpretar entradas e controlar as saídas afim de criar sistemas automáticos.
 <img src="https://th.bing.com/th/id/OIP.gW4eBp_itmkzCHXLsRJ5bwHaHa?rs=1&pid=ImgDetMain" alt="Descrição da Imagem" width="150"/> | Ponte H | A ponte H é um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
-<img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414355828b769476.jpg" alt="Descrição da Imagem" width="150"/> | Ponte H | A ponte H é um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
+<img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414355828b769476.jpg" alt="Descrição da Imagem" width="150"/> | LED | O LED é um semicondutor que emite luz quando uma corrente elétrica o atravessa.
+<img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414215bc2ba005ee.jpg" alt="Descrição da Imagem" width="150"/> | Jumpers | Jumpers são pequenos fios condutores que permitem estabelecer conexões entre pontos de um circuito eletrônico, sem a necessidade de solda.
+<img src="https://www.aranacorp.com/wp-content/uploads/dcmotor-robotbase-ttgm.jpg" alt="Descrição da Imagem" width="150"/> | Motor de Corrente Contínua | Um motor de corrente contínua (CC) é um motor elétrico que converte energia elétrica em energia mecânica e vice-versa. A corrente elétrica flui constantemente em uma única direção, o que é característico da corrente contínua.
+
 
 ### Observação
 Esta tabela mostra as combinações de valores aceitos pelo digitalWrite do Arduino e as direções que elas configuram:
