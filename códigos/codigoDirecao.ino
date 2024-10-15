@@ -1,10 +1,8 @@
-//Definicoes pinos Arduino ligados a entrada da Ponte H 
 int IN1 = 5; 
 int IN2 = 6; 
 
 void setup() 
 { 
-//Define os pinos como saida 
 pinMode(IN1, OUTPUT); 
 pinMode(IN2, OUTPUT); 
 } 
