@@ -10,7 +10,7 @@ __Kathya Silva Collazos Linares & Jorge Luis Roel Ortiz__.
 
 Componente | Nome do Componente | Descrição
 :---------:|:------------------:|:---------:
-<img src="https://acdn.mitiendanube.com/stores/001/159/336/products/0001-arduino_uno1-320243ab820a3af3cc15872244772880-640-0.png" alt="Descrição da Imagem" width="150"/> | Arduino UNO | O Arduino Uno é uma placa microcontroladora, que possuem funcionamento semelhante ao de um pequeno computador capaz de interpretar entradas e controlar as saídas afim de criar sistemas automáticos.
+<img src="https://www.lojamundi.com.br/imagens/produtos/Arduino-R3-Uno.jpg" alt="Descrição da Imagem" width="150"/> | Arduino UNO | O Arduino Uno é uma placa microcontroladora, que possuem funcionamento semelhante ao de um pequeno computador capaz de interpretar entradas e controlar as saídas afim de criar sistemas automáticos.
 <img src="https://th.bing.com/th/id/OIP.gW4eBp_itmkzCHXLsRJ5bwHaHa?rs=1&pid=ImgDetMain" alt="Descrição da Imagem" width="150"/> | Ponte H | A ponte H é um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
 <img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414355828b769476.jpg" alt="Descrição da Imagem" width="150"/> | LED | O LED é um semicondutor que emite luz quando uma corrente elétrica o atravessa.
 <img src="https://curtocircuito.com.br/pub/media/catalog/product/cache/ebf8a13d4dce863c74a00b8d4baba7b1/1/k/1k-1_4w.jpg" alt="Descrição da Imagem" width="150"/> | Resistor | Resistores são componentes eletrônicos cuja principal função é limitar o fluxo de cargas elétricas por meio da conversão da energia elétrica em energia térmica.
